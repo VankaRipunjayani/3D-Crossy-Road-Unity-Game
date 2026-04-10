@@ -1,60 +1,75 @@
-# Crossy Road EX
+# 🎮 CrossyRoadEX – Unity Game Project
 
-**Crossy Road EX** is an implementation of the classic game [*Crossy Road*](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad&hl=en_US) built in [Unity](https://unity3d.com/). *Crossy Road* is an arcade video game released on 20 November 2014. It was developed and published by Hipster Whale, with the name and concept of the game playing on the joke "Why did the chicken cross the road?" The game has been described as "endless Frogger."
+## 📌 Overview
+CrossyRoadEX is an endless arcade-style game developed using Unity. The game is inspired by the popular game *Crossy Road*, where the player continuously moves forward while avoiding obstacles and surviving as long as possible.
 
-> More information about [Unity](https://unity3d.com/)
-
-* [How to install Unity IDE?](https://store.unity.com/?_ga=2.265725839.1060669429.1552211594-647567507.1552211594)
-
----
-## Execution
-
-> **NOTICE:** Make sure you have already installed Unity on your machine.
-
-1. Open this repository in your Unity IDE first
-2. Execution in the Unity IDE
-    * If succed, you will see the picture as follow
-        * Click "Play" to start the game
-        ![](https://i.imgur.com/qUA6SBl.png)
-    * In "Option", you will see some settings as follow
-        ![](https://i.imgur.com/1hPeKYo.png)
-    * In "Play", you will see the picture as follow. Click any key to play!
-        ![](https://i.imgur.com/GjkTKQs.png)
-        ![](https://i.imgur.com/KeyPr5u.png)
-    * Game over
-        ![](https://i.imgur.com/X18eExN.png)
-
-### Run with execution file
-
-We have already built the execution for Windows and Ubuntu Linux. You can also run the execution file respectively in the folder [`Main/`](Main/).
-
-```
-Main/
-|--- Ubuntu/
-    |--- CrossyRoadEX_Data/
-    |--- CrossyRoadEX.x86_64        # Click this file to run the game!
-|--- Windows/
-    |--- CrossyRoadEX_Data/
-    |--- MonoBleedingEdge/
-    |--- CrossyRoadEX.exe
-    |--- UnityCrashJandler64.exe    # Click this file to run the game!
-    |--- UnityPlayer.dll
-    |--- WinPixEventRuntime.dll
-```
+This project demonstrates real-time gameplay, collision detection, and dynamic object generation.
 
 ---
-## Logs
 
-* MAR 11, 2019 - Build and test on [Unity 2018.3.8f1 (64-bit)](https://unity3d.com/get-unity/download/archive)
-
----
-## Author
-
-> **NOTICE:** You can follow the contributing process [CONTRIBUTING.md](CONTRIBUTING.md) to join me. I am very welcome any issue!
-
-* [David Lu](https://github.com/yungshenglu)
+## 🚀 Features
+- 🎯 Endless gameplay system  
+- 🚗 Obstacle avoidance mechanics  
+- 🎮 Smooth player movement  
+- 📈 Score tracking system  
+- ⚡ Increasing difficulty over time  
 
 ---
-## License
 
-[GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
+## 🛠️ Technologies Used
+- Unity Game Engine  
+- C# Programming Language  
+- Git & GitHub  
+
+---
+
+## 🧠 Concepts Implemented
+- Game Loop  
+- Collision Detection  
+- Object-Oriented Programming  
+- Real-time system processing  
+- Dynamic object spawning  
+
+---
+
+## ▶️ How to Run the Project
+
+1. Open the project using Unity Hub  
+2. Load the project folder  
+3. Click on **Play ▶️**  
+4. Start playing the game  
+
+---
+
+## 📷 Screenshots
+(Add your gameplay screenshots here)
+
+---
+
+## 📂 Project Structure
+- Assets → Game resources and scripts  
+- ProjectSettings → Unity configuration  
+- Packages → Dependencies  
+
+---
+
+## 📊 Learning Outcomes
+- Understanding Unity game development  
+- Implementing real-time systems  
+- Improving problem-solving skills  
+- Working with version control  
+
+---
+
+## 🔮 Future Improvements
+- Add sound effects 🎵  
+- Improve UI/UX 🎨  
+- Add levels and themes 🌍  
+- Mobile optimization 📱  
+
+---
+
+## 📌 Conclusion
+This project demonstrates the implementation of a real-time arcade game using Unity. It highlights the integration of programming, logic building, and interactive design to create an engaging user experience.
+
+---
